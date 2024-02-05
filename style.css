@@ -1,0 +1,47 @@
+
+body {
+background-color: #eaf4f4;
+font-family: 'Open Sans';
+color: #6b9080;
+font-size: 20;
+line-height for the <body>. Setting these font rules at the body-level will apply them on all basic text tags (<p>, <li>, etc.).
+}
+h1 {
+  color: #6b9080;
+  font-size: 15;
+  font-family:Playfair
+
+}
+img {
+  border-radius: 50% ;
+}
+
+.container {
+  margin: 50px 100px 100px 20px;
+}
+
+.card {
+
+background: #f6fff8;                         /* White background */
+padding: 30px 200px;                             /* Internal space */
+border-radius: 4px;                        /* Small radius */
+box-shadow: 0 10px 30px rgba(0,0,0,.1);
+
+margin: 30px 200px;
+text-align: center;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.fa-brands {
+  font-size: 30px;
+  padding: 10px;
+  margin: 10px;
+}
