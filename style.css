@@ -7,11 +7,11 @@ font-size: 20;
 line-height for the <body>. Setting these font rules at the body-level will apply them on all basic text tags (<p>, <li>, etc.).
 }
 h1 {
-  color: #6b9080;
+  color: #153243;
   font-size: 15;
   font-family:Playfair
-
 }
+
 img {
   border-radius: 50% ;
 }
@@ -21,7 +21,6 @@ img {
 }
 
 .card {
-
 background: #f6fff8;                         /* White background */
 padding: 30px 200px;                             /* Internal space */
 border-radius: 4px;                        /* Small radius */
